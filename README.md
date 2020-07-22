@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **JellyBellyDev/JellyBellyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I write code for [@ImmobiliareLabs](https://github.com/immobiliare/).  
+Cordinator of [@PUG_Roma](https://github.com/pug-roma) Italian PHP Community.  
+Passionate about the web, php, js, open source, rap and tv series!
+
+
+![](https://komarev.com/ghpvc/?username=JellyBellyDev)
+
+***
+
+<sub>Credits: [badge profile counter](https://github.com/antonkomarev/github-profile-views-counter)</sub>
