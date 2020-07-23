@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I write code for [@ImmobiliareLabs](https://github.com/immobiliare/).  
 Cordinator of [@PUG_Roma](https://github.com/pug-roma) Italian PHP Community.  
+Active member of [@RomaJS](https://github.com/Roma-JS) Italian JavaScript Community.  
 Passionate about the web, php, js, open source, rap and tv series!
 
 
