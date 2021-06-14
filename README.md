@@ -20,6 +20,9 @@ Cordinator of [@PUG_Roma](https://github.com/pug-roma) Italian PHP Community.
 Active member of [@RomaJS](https://github.com/Roma-JS) Italian JavaScript Community.  
 Passionate about the web, php, js, open source, rap and tv series!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JellyBellyDev&count_private=true&show_icons=true&theme=prussian&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellyBellyDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![](https://komarev.com/ghpvc/?username=JellyBellyDev)
 
