@@ -20,7 +20,9 @@ Cordinator of [@PUG_Roma](https://github.com/pug-roma) Italian PHP Community.
 Active member of [@RomaJS](https://github.com/Roma-JS) Italian JavaScript Community.  
 Passionate about the web, php, js, open source, rap and tv series!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JellyBellyDev&count_private=true&show_icons=true&theme=prussian&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellyBellyDev&layout=compact&count_private=true&theme=prussian&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JellyBellyDev&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellyBellyDev&layout=compact&count_private=true&theme=prussian&include_all_commits=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -28,4 +30,4 @@ Passionate about the web, php, js, open source, rap and tv series!
 
 ***
 
-<sub>Credits: [badge profile counter](https://github.com/antonkomarev/github-profile-views-counter)</sub>
+<sub>Credits: [badge profile counter](https://github.com/antonkomarev/github-profile-views-counter), [stats cards](https://github.com/anuraghazra/github-readme-stats)</sub>
